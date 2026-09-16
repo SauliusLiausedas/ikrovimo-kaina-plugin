@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ikrovimo-kaina": {
+      "type": "http",
+      "url": "https://ikrovimo-kaina.lt/mcp"
+    }
+  }
+}

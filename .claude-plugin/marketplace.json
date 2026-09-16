@@ -1,0 +1,18 @@
+{
+  "name": "ikrovimo-kaina",
+  "owner": {
+    "name": "Saulius Liausėdas",
+    "email": "info@ikrovimo-kaina.lt"
+  },
+  "metadata": {
+    "description": "Live public EV charging prices in Lithuania from ikrovimo-kaina.lt."
+  },
+  "plugins": [
+    {
+      "name": "ikrovimo-kaina",
+      "source": "./plugins/ikrovimo-kaina",
+      "description": "Live public EV charging prices, stations, networks and costs in Lithuania (open data, CC BY 4.0).",
+      "category": "data"
+    }
+  ]
+}

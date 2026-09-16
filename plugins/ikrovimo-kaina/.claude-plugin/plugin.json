@@ -1,0 +1,14 @@
+{
+  "name": "ikrovimo-kaina",
+  "version": "1.0.0",
+  "description": "Live public EV charging prices, stations, networks and costs in Lithuania (open data, CC BY 4.0).",
+  "author": {
+    "name": "Saulius Liausėdas",
+    "email": "info@ikrovimo-kaina.lt",
+    "url": "https://ikrovimo-kaina.lt"
+  },
+  "homepage": "https://ikrovimo-kaina.lt/api#mcp",
+  "repository": "https://github.com/SauliusLiausedas/ikrovimo-kaina-plugin",
+  "license": "MIT",
+  "keywords": ["ev", "charging", "electric-vehicle", "lithuania", "open-data", "mcp"]
+}
